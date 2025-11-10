@@ -1,7 +1,5 @@
 # DFusion-DFI
 
-# DFusion-DFI
-
 Data_process:
 
 The original data is first processed by the code document "predata.py";
